@@ -1,4 +1,4 @@
-ppackage com.driver.repository;
+package com.driver.repository;
 
 import java.util.List;
 
